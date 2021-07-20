@@ -52,7 +52,7 @@ input[type="button"] {
 }
 input[type="text"] {
   background-color: rgb(255, 255, 255);
-  width: 74% ; 
+  width: 100% ; 
 }
 input[type="button"]:hover {
   background-color: rgb(63, 59, 100);
@@ -61,6 +61,8 @@ input[type="button"]:hover {
 #clear {
   color: #fff;
   background-color: rgb(255, 25, 25);
+  height: auto;
+  width: 61%;
 }
 button {
   border: none;

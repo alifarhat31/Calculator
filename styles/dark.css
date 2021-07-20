@@ -52,7 +52,7 @@ input {
 }
 input[type="text"] {
   background-color: rgb(47, 51, 50);
-  width: 74% ; 
+  width: 100% ; 
 }
 input[type="button"]:hover {
   background-color: rgb(160, 160, 160);
@@ -61,6 +61,8 @@ input[type="button"]:hover {
 #clear {
   color: #fff;
   background-color: rgb(255, 42, 42);
+  height: auto;
+  width: 61%;
 }
 button {
   border: none;
@@ -87,6 +89,8 @@ a {
   border-radius: 4px;
   font-size: 0.8em;
   font-weight: 200;
+  align-items: center;
+  height:auto;
 }
 .bottom-buttons {
   display: flex;
