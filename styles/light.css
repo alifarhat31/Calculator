@@ -24,6 +24,7 @@ h1 {
 }
 .container {
   width: auto;
+  height: 60%;
 }
 .result {
   width: 59.1%;
